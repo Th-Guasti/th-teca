@@ -1,0 +1,22 @@
+.boxLivros {
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+}
+
+.listaLivros {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.livroListado {
+    width: 150px;
+}
+
+.p {
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+}

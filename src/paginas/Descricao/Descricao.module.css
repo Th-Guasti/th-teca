@@ -1,0 +1,27 @@
+.card {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 200PX;
+}
+
+.div {
+    width: 550px;
+    background-color: #ffffff69;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 2px 4px #000;
+}
+
+.h2 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.h3 {
+    font-size: 20px;
+}
+
+.p {
+    font-size: 16px;
+}
