@@ -4,3 +4,17 @@
     align-items: center;
     color: #fff;
 }
+
+@media (max-width: 790px)
+{
+    .div {
+        margin: 10%;
+    }   
+}
+
+@media (max-width: 460px)
+{
+    .h1 {
+        font-size: 18px;
+    }
+}

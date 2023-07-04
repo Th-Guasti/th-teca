@@ -4,4 +4,21 @@
     justify-content: center;
     gap: 60%;    
     background-color: #ffffff;
+    transition: 1s;
+}
+
+@media (max-width: 790px)
+{
+    .header {
+        gap: 40%;
+    }
+}
+
+@media (max-width: 460px)
+{
+    .header {
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+    }
 }

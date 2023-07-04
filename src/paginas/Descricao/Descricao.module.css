@@ -11,6 +11,7 @@
     padding: 10px;
     border-radius: 5px;
     box-shadow: 1px 1px 2px 4px #000;
+    transition: 1s;
 }
 
 .h2 {
@@ -24,4 +25,14 @@
 
 .p {
     font-size: 16px;
+}
+
+@media (max-width: 600px) {
+    .div {
+        width: 250px;
+        background-color: #ffffff69;
+        padding: 10px;
+        border-radius: 5px;
+        box-shadow: 1px 1px 2px 4px #000;
+    }
 }
